@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Aryan Sharma",
+    "title": "CS + Statistics @ University of Maryland, College Park",
+    "summary": "Freshman at The University of Maryland, College Park currently pursuing a degree in Computer Science and a minor in Statistics, with a focus in Quantitative Analysis and Low-Level Systems. I have hands-on experience in the AI sector, where I engineered data pipelines to process large-scale datasets for predictive modeling. Currently, I am taking courses in Advanced Linear Algebra, Discrete Mathematics, Object-Oriented Programming, and C++ systems programming. I am actively seeking internship opportunities in Quantitative Finance or Software Engineering where I can apply mathematical rigor to complex engineering problems.",
+    "location": "United States",
+    "email": "sharma.vaids@gmail.com",
+    "phone": "+1-959-239-4592",
+    "links": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/aryan-sharma-72306b324/" },
+      { "name": "GitHub", "url": "https://github.com/sharmavaids-hue" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "App Dev Club",
+      "role": "Web Development Bootcamp",
+      "dates": "February 2026 - Present",
+      "location": "College Park, Maryland, United States",
+      "bullets": [
+        "Learning Full Stack Web Development using HTML, CSS, React, Javascript and Git"
+      ]
+    },
+    {
+      "company": "InveniAI",
+      "role": "AI/ML Research Intern",
+      "dates": "November 2023 - July 2024",
+      "location": "Remote",
+      "bullets": [
+        "Engineered automated data pipelines using Python (Pandas, NumPy, Matplotlib) and KNIME to process and analyze 50,000+ gene-drug relationships from OpenTargets and DisGenet databases for obesity therapeutic research",
+        "Developed algorithms to filter massive datasets and identify unique Gene-Disease Associations (GDA), implementing custom scoring mechanisms to rank 500+ gene-obesity combinations based on correlation strength",
+        "Built predictive models to discover novel drug-target relationships, achieving 85%+ correlation accuracy between independent database scores through comparative analysis and relative scoring methodologies",
+        "Optimized data workflows reducing processing time by 40% through efficient command-line operations and Python automation, enabling identification of 20+ novel therapeutic targets for pharmaceutical development"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Processed 50,000+ Relationships",
+      "context": "Gene-drug relationships from OpenTargets and DisGenet databases for obesity therapeutic research"
+    },
+    {
+      "title": "Ranked 500+ Combinations",
+      "context": "Gene-obesity combinations based on correlation strength using custom scoring mechanisms"
+    },
+    {
+      "title": "85%+ Correlation Accuracy",
+      "context": "Between independent database scores through comparative analysis and relative scoring methodologies"
+    },
+    {
+      "title": "40% Reduced Processing Time",
+      "context": "Optimized data workflows through efficient command-line operations and Python automation"
+    },
+    {
+      "title": "Identified 20+ Novel Targets",
+      "context": "Therapeutic targets for pharmaceutical development"
+    },
+    {
+      "title": "30% Reduced Tracking Time",
+      "context": "Manual inventory tracking time for over 1000+ stock units"
+    },
+    {
+      "title": "Sub-100ms Latency",
+      "context": "Data synchronization latency across the stack handling 100% of real-time CRUD operations"
+    },
+    {
+      "title": "90% Slashed Setup Time",
+      "context": "Environment setup time reduced from 1 hour to <5 minutes by containerizing PostgreSQL database"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Full-Stack Enterprise Inventory Platform",
+      "stack": ["Python", "Java Spring Boot", "PostgreSQL", "Docker", "Streamlit"],
+      "dates": "Dec. 2025 – Jan. 2026",
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/sharmavaids-hue/full-stack-inventory-system" }
+      ],
+      "bullets": [
+        "Reduced manual inventory tracking time by 30% for over 1000+ stock units by engineering a full-stack solution that integrates a Java Spring Boot backend with a Python Streamlit analytics dashboard.",
+        "Achieved sub-100ms data synchronization latency across the stack by designing a RESTful API architecture that handles 100% of real-time CRUD (Create, Read, Update, and Delete) operations without data loss.",
+        "Slashed environment setup time by 90% (from 1 hour to <5 minutes) by containerizing the PostgreSQL database using Docker, ensuring 100% runtime consistency across development stages."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Python", "Java", "PostgreSQL", "MATLAB", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": ["Pandas", "NumPy", "Matplotlib", "Plotly", "KNIME", "React"]
+    },
+    {
+      "category": "Developer Tools",
+      "items": ["Anaconda", "Jupyter Notebook", "Visual Studio Code", "IntelliJ IDEA", "Docker", "AutoCAD", "Fusion", "Git"]
+    },
+    {
+      "category": "Core Competencies",
+      "items": ["Quantitative Analysis", "Database Management", "Low-Level Systems"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland, College Park",
+      "location": "College Park, MD",
+      "degree": "Bachelor of Science in Computer Science; Minor in Statistics",
+      "dates": "Sep. 2025 – May 2029",
+      "bullets": [
+        "Relevant Coursework: Applications of Linear Algebra, Object-Oriented Programming, Discrete Structures, Advanced Linear Algebra, Discrete Mathematics, C++ systems programming",
+        "GPA: 4.0/4.0 (Dean’s List)"
+      ]
+    },
+    {
+      "institution": "DAV Public School",
+      "location": "Palampur, H.P., India",
+      "degree": "High School Diploma in Mathematics and Computer Science",
+      "dates": "Mar. 2021 – May 2025",
+      "bullets": [
+        "Top 1% Scorer in All India Central Board of Secondary Examinations Grade XII",
+        "Awards: AP Scholar, International Olympiad of Mathematics (Gold), Amar Shaheed Capt. Saurabh Kalia Memorial Award"
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "Web Development (WEB101)" }
+  ],
+  "awards": [
+    { "title": "International Olympiad of Mathematics 2023-2024 Gold Medalist (SilverZone Foundation)" },
+    { "title": "AP (Advanced Placement) Scholar Award" },
+    { "title": "Allen Special Performers Group (SPG)" },
+    { "title": "Amar Shaheed Capt. Saurabh Kalia Memorial Award" },
+    { "title": "Top 1% All India CBSE Grade XII Examinations" }
+  ],
+  "extra": []
+}
